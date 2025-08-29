@@ -8,7 +8,7 @@ This repository contains two Jupyter notebooks, each dedicated to one of the met
 
 1. **POD-Galerkin Method**: This notebook implements the classical POD-Galerkin method, where the solution of the PDE is approximated using a reduced basis obtained from the Proper Orthogonal Decomposition. The Galerkin projection is then used to derive a system of ordinary differential equations (ODEs) that approximate the original PDE.
 
-2. **POD-NN Method**: In this notebook, the POD method is combined with a neural network approach. The idea is to use a neural network to learn the dynamics of the reduced-order model, which can potentially offer better performance in terms of accuracy and computational efficiency compared to the traditional POD-Galerkin method. Test
+2. **POD-NN Method**: In this notebook, the POD method is combined with a neural network approach. The idea is to use a neural network to learn the dynamics of the reduced-order model, which can potentially offer better performance in terms of accuracy and computational efficiency compared to the traditional POD-Galerkin method. Test rr
 
 ## Getting Started
 
